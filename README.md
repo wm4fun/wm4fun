@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm William Milanez, Full Stack student focusing on Web Development!
+
 <!--
 **wm4fun/wm4fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
